@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kshamith
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning Tailwind CSS 
+- 🌱 I’m currently learning Javascript 
 - 💞️ I’m looking to collaborate on any beginner friendly web dev projects
 - 📫 You can reach me out via Twitter @Kshamith_twt or by emailing me at kshamithrajshetty@gmail.com 
 
